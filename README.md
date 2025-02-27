@@ -1,3 +1,9 @@
+NOTE CÁC BƯỚC CHẠY
+
+1. npm i
+2. npm run dev
+
+
 # Hệ thống Quản lý Phòng Họp (MeetingHub)
 
 ## Giới thiệu
